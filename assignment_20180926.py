@@ -1,5 +1,5 @@
 #Q.1-Print anything you want on screen.
-print('My first Python script.')
+print('My initial Python script.')
 
 #Q.2-Join two strings using '+'.E.g.-"Acad"+"View”
 s1='The quick brown'
